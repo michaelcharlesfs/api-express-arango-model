@@ -1,0 +1,22 @@
+{
+  "name": "api-express-arango-model",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "arangojs": "^6.6.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "~4.15.2",
+    "helmet": "^3.13.0",
+    "joi": "^13.6.0",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
+  }
+}
